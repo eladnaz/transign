@@ -1,0 +1,69 @@
+What is a smartphone? | Digital Unite (no date). Available at: 
+https://www.digitalunite.com/technology-guides/smartphonestablets/smartphones/what-smartphone (Accessed: 3 November 2020). 
+
+Mobile Operating System Market Share Worldwide | StatCounter Global Stats (no 
+date). Available at: https://gs.statcounter.com/os-market-share/mobile/worldwide 
+(Accessed: 3 November 2020).
+
+Young, I. et al. (2004) ‘Fundamentals Of Image Processing’.
+
+da Silva, E. A. B. and Mendonça, G. V. (2005) ‘4 - Digital Image Processing’, in 
+Chen, W.-K. (ed.) The Electrical Engineering Handbook. Burlington: Academic 
+Press, pp. 891–910. doi: 10.1016/B978-012170960-0/50064-5. 
+
+Shalev-Shwartz, S. and Ben-David, S. (2014) Understanding Machine Learning: 
+From Theory to Algorithms. Cambridge: Cambridge University Press. doi: 
+10.1017/CBO9781107298019.
+
+Decencière, E. et al. (2013) ‘TeleOphta: Machine learning and image processing 
+methods for teleophthalmology’, IRBM, 34(2), pp. 196–203. doi: 
+10.1016/j.irbm.2013.01.010. 
+
+Socher, R., Bengio, Y. and Manning, C. D. (2012) ‘Deep learning for NLP (without 
+magic)’, in Tutorial Abstracts of ACL 2012. USA: Association for Computational 
+Linguistics (ACL ’12), p. 5.
+
+Perez, L. and Wang, J. (2017) ‘The Effectiveness of Data Augmentation in Image 
+Classification using Deep Learning’, arXiv:1712.04621 [cs]. Available at: 
+http://arxiv.org/abs/1712.04621 (Accessed: 3 November 2020). 
+
+Chadalawada, S. K. (no date) ‘Real Time Object Detection and Recognition’, p. 66.
+
+Gavrila, D. M. and Philomin, V. (1999) ‘Real-time object detection for “smart” 
+vehicles’, in Proceedings of the Seventh IEEE International Conference on Computer 
+Vision. Proceedings of the Seventh IEEE International Conference on Computer 
+Vision, pp. 87–93 vol.1. doi: 10.1109/ICCV.1999.791202. 
+
+Al-Husseini, K. and Obaid, A. (2018) ‘USAGE OF PROTOTYPING IN SOFTWARE 
+TESTING’, 14, pp. 1–10.
+
+Carr, M. (1998) Prototyping and Software Development Approaches, undefined. 
+Available at: /paper/Prototyping-and-Software-Development-ApproachesCarr/0b05add730e04843e234937a070f24b19efaadc3 (Accessed: 21 November 
+2020). 
+
+‘SDLC - Software Prototype Model’ (no date), p. 3. 
+
+Kotlin and Android | Android Developers (no date). Available at: 
+https://developer.android.com/kotlin (Accessed: 21 November 2020). 
+
+Interpret Sign Language with Deep Learning (no date). Available at: 
+https://kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning 
+(Accessed: 21 November 2020). 
+
+Jalled, F. (2017) Face Recognition Machine Vision System Using Eigenfaces. 
+Available from https://arxiv.org/abs/1705.02782 [accessed 3 April 2021].
+
+Wagh, P., Thakare, R., Chaudhari, J. and Patil, S. (2015) Attendance system based on 
+face recognition using eigen face and PCA algorithms. 2015 International Conference 
+on Green Computing and Internet of Things (ICGCIoT)
+
+Sermanet, P., Eigen, D., Zhang, X. and Mathieu, M. (2013) OverFeat: Integrated 
+Recognition, Localization and Detection using Convolutional Networks. Available 
+from https://arxiv.org/abs/1312.6229 [accessed 3 April 2021].
+
+Redmon, J., Divvala, S., Girshick, R. and Farhadi, A. (2016) You Only Look Once: 
+Unified, Real-Time Object Detection 1-4.
+
+
+
+
